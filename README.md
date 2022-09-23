@@ -1,5 +1,5 @@
 # UNIT PLAN NAME
-by TEAM MEMBERS
+by Adam Driggers, Kate Maschmeyer, Marisa Shuman
 
 -----
 
